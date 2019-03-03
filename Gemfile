@@ -64,3 +64,4 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Customize
 gem 'slim-rails'
 gem 'html2slim'
+gem 'bootstrap'
